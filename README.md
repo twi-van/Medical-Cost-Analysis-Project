@@ -6,10 +6,7 @@ Mục tiêu: Áp dụng các kỹ thuật thống kê cơ bản và học máy �
 
 ## 🗂️ Cấu trúc thư mục
 - `data/`: Chứa file dữ liệu thô `insurance.csv` và dữ liệu đã làm sạch `data_sach.csv`.
-- `1_EDA_Hien.ipynb`: Khám phá dữ liệu (EDA), Tiền xử lý, xử lý Missing Values và Outliers.
-- `2_PhanPhoi_Loi.ipynb`: Phân tích phân phối xác suất (Chuẩn, Lệch phải) bằng biểu đồ Histogram và KDE.
-- `3_KiemDinh_Phuong.ipynb`: Kiểm định giả thuyết (T-test, ANOVA) để chứng minh sự khác biệt về mặt thống kê.
-- `4_HoiQuy_Van.ipynb`: Phân tích tương quan (Pearson, Spearman) và Xây dựng mô hình Hồi quy tuyến tính đa biến (Multiple Linear Regression).
+- `CODE.ipynb`: Mã nguồn Python tổng hợp toàn bộ các bước phân tích (EDA, Phân phối xác suất, Kiểm định giả thuyết, Phân tích tương quan và Hồi quy đa biến).
 
 ## 🛠 Thư viện & Công cụ
 Để chạy được dự án này, vui lòng cài đặt các thư viện sau (hoặc sử dụng file `requirements.txt`):
