@@ -4,8 +4,15 @@
 Dự án phân tích và trực quan hóa dữ liệu chi phí bảo hiểm y tế (Medical Cost Personal Datasets). 
 Mục tiêu: Áp dụng các kỹ thuật thống kê cơ bản và học máy để giải mã các yếu tố ảnh hưởng đến chi phí y tế, từ đó xây dựng mô hình dự đoán. Đồ án cuối kỳ môn Phân tích và Trực quan hóa dữ liệu.
 
+
+## 👥 Bảng phân công nhiệm vụ
+* **Hiền**: Khám phá dữ liệu (EDA), Tiền xử lý, xử lý Missing Values và Outliers.
+* **Lợi**: Phân tích phân phối xác suất (Chuẩn, Lệch phải) bằng biểu đồ Histogram và KDE.
+* **Phương**: Kiểm định giả thuyết (T-test, ANOVA) để chứng minh sự khác biệt về mặt thống kê.
+* **Vân**: Phân tích tương quan (Pearson, Spearman) và Xây dựng mô hình Hồi quy tuyến tính đa biến (Multiple Linear Regression).
+
 ## 🗂️ Cấu trúc thư mục
-- `data/`: Chứa file dữ liệu thô `insurance.csv` và dữ liệu đã làm sạch `data_sach.csv`.
+- `data/`: Chứa file dữ liệu thô `insurance.csv` và dữ liệu đã làm sạch `clean_data.csv` (`data_sach.csv`).
 - `CODE.ipynb`: Mã nguồn Python tổng hợp toàn bộ các bước phân tích (EDA, Phân phối xác suất, Kiểm định giả thuyết, Phân tích tương quan và Hồi quy đa biến).
 
 ## 🛠 Thư viện & Công cụ
