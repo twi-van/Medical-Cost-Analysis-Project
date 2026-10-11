@@ -12,7 +12,7 @@ Mục tiêu: Áp dụng các kỹ thuật thống kê cơ bản và học máy �
 * **Vân**: Phân tích tương quan (Pearson, Spearman) và Xây dựng mô hình Hồi quy tuyến tính đa biến (Multiple Linear Regression).
 
 ## 🗂️ Cấu trúc thư mục
-- `data/`: Chứa file dữ liệu thô `insurance.csv` và dữ liệu đã làm sạch `clean_data.csv` (`data_sach.csv`).
+- `data/`: Chứa file dữ liệu thô `insurance.csv` và dữ liệu đã làm sạch `clean_data.csv`.
 - `CODE.ipynb`: Mã nguồn Python tổng hợp toàn bộ các bước phân tích (EDA, Phân phối xác suất, Kiểm định giả thuyết, Phân tích tương quan và Hồi quy đa biến).
 
 ## 🛠 Thư viện & Công cụ
